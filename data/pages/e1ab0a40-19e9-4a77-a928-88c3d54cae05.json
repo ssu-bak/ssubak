@@ -35,12 +35,11 @@
   "created_by": "ssu-bak",
   "title": "\"MAMA\"_EXO-K",
   "slug": "mamaexo-k",
-  "updated_at": "2025-07-15T15:23:30.558Z",
+  "updated_at": "2025-07-15T15:23:39.094Z",
   "updated_by": "ssu-bak",
-  "parent": "b829e780-23cb-4c1d-b1bd-10f0dd3ffab9",
   "autogenerate": {
     "enabled": false,
-    "type": "event",
+    "type": "home",
     "type_id": "350fe7cd-9aec-4a04-8cfa-e114adf09906"
   }
 }
